@@ -10,6 +10,6 @@ public class HelloController {
 
     @RequestMapping("info")
     public String doInfo(){
-        return "Hello huangweidong";
+        return "Hello xiongshifei bengdan";
     }
 }
